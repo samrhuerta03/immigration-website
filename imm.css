@@ -1,3 +1,22 @@
+body {
+  background: #222;
+  color: #f0f0f0;
+}
+
+
+/* .sticky{
+  position: fixed;
+  top: 0;
+  width: 100%;
+} */
+
+.home{
+  text-align: center;
+  font-size: 35 px;
+  color: black;    
+}
+
+
 
 body {
   margin: 0;
